@@ -3,30 +3,25 @@
   "name": "dirty-system",
   "title": "Dirty System",
   "type": "system",
-  "description": "Le Dirty System du Dirty Clean Crew enfin sur Foundry !",
+  "description": "Le Dirty System du Dirty Clean Crew, version v13.",
   "version": "1.0.0",
-
   "compatibility": {
     "minimum": "10",
     "verified": "13"
   },
   "compatibleCoreVersion": "13",
-
   "authors": [
     {
       "name": "Neo",
       "url": "https://x.com/FumbleAcademy"
     }
   ],
-
   "esmodules": [
     "module.js"
   ],
-
   "styles": [
     "styles/styles.css"
   ],
-
   "languages": [
     {
       "lang": "en",
@@ -34,12 +29,11 @@
       "path": "lang/en.json"
     }
   ],
-
   "packs": [],
   "system": {},
 
   "license": "LICENSE.txt",
   "readme": "README.md",
-  "manifest": ""https://raw.githubusercontent.com/Fumble-Neo/DirtySystemV13/main/system.json",
+  "manifest": "https://raw.githubusercontent.com/Fumble-Neo/DirtySystemV13/main/system.json",
   "download": "https://github.com/Fumble-Neo/DirtySystemV13/archive/refs/heads/main.zip"
 }
